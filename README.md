@@ -1,2 +1,3 @@
-# rapid-travel-planner-sj2a
-A travel planning application for modern development workflows
+# Rapid Travel Planner Sj2A
+
+A travel planning application for modern development workflows.
